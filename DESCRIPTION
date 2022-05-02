@@ -1,0 +1,11 @@
+Package: auscm
+Type: Package
+Title: Contact Matrices for Australia
+Version: 1.0.0
+Date: 2022-05-02
+Author: Simon Knapp
+Maintainer: Simon Knapp <simon.knapp@data61.csiro.au>
+Description: A pure data package providing contact matrices for Australia.
+License: CC0
+Imports: Rdpack
+RdMacros: Rdpack
